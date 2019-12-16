@@ -5,13 +5,14 @@ title: Tools
 ---
 
 {% assign existing_screenshots = site.static_files 
-  | where_exp: "file", "file.extname == '.png' and file.path contains 'img/screenshots/'"
+  | where_exp: "file", "file.extname == '.png'" 
+  | where_exp: "file", "file.path contains 'img/screenshots/'"
   | map: "basename"
 %}
 
 <ul class="content-list" id="tools-list">
 {% for tool in site.data.software %}
-  {% assign main_screenshot = tool.id | append: "-main" %}
+  {% assign main_screenshot = tool.folder | append: "-main" %}
   
   <li>
     <div class="row">
@@ -19,7 +20,7 @@ title: Tools
         <h3>{{ tool.name }}</h3>
         <h5>{{ tool.full-name }}</h5>
         <p>{{ tool.description | markdownify }}</p>
-        <a href="{{ tool.id }}">More</a>
+        <a href="{{ tool.folder }}">More</a>
       </div>
       <div class="col-2">
         {% if existing_screenshots contains main_screenshot %}

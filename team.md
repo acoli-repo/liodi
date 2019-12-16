@@ -5,7 +5,8 @@ title: LiODi Team
 ---
 
 {% assign existing_photos = site.static_files 
-  | where_exp: "file", "file.extname == '.jpg' and file.path contains 'img/people/'"
+  | where_exp: "file", "file.extname == '.jpg'"
+  | where_exp: "file", "file.path contains 'img/people/'"
   | map: "basename" 
 %}
 
