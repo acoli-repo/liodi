@@ -1,0 +1,43 @@
+- name: Christian Chiarcos
+  email: "‹lastname›@informatik.uni-frankfurt.de"
+  address: "Robert Mayer Str. 11-15, Raum 107"
+  phone: "Tel +49-69-798-22463\nFax +49 69-798-28334"
+  misc: "Sprechstunden: nach Vereinbarung"
+  role: Principal Investigator
+
+- name: Monika Rind-Pawlowski
+  email: "‹lastname›@lingua.uni-frankfurt.de"
+  address: "Senckenberganlage 31 Raum 911"
+  phone: "Tel +49-69-798-25058"
+  misc: "Sprechstunden: nach Vereinbarung"
+  role: Co-Principal Investigator
+
+- name: Maxim Ionov
+  email: "‹lastname›@informatik.uni-frankfurt.de"
+  address: "Robert Mayer Str. 11-15, Raum 110"
+  phone: "Tel +49-69-798-23800"
+  role: "Wissenschaftlicher Mitarbeiter"
+
+- name: Hasmik Sargsyan
+  email: "‹lastname›@lingua.uni-frankfurt.de"
+  address: "Senckenberganlage 31, Raum 911"
+  phone: "Tel +49-69-798-25058"
+  role: "Wissenschaftlicher Mitarbeiter"
+
+- name: Jesse Wichers Schreur
+  email: "‹lastname›@lingua.uni-frankfurt.de"
+  address: "Senckenberganlage 31, Raum 1116"
+  phone: ""
+  role: "Wissenschaftlicher Mitarbeiter"
+
+- name: Bastian Kaiser
+  email: "‹lastname›@em.uni-frankfurt.de"
+  address: "Robert-Mayer-Str. 11-15, Raum 109"
+  phone: "Tel +49-69-798-28116"
+  role: "Technischer Mitarbeiter"
+
+- name: Frank Abromeit
+  email: "‹lastname›@em.uni-frankfurt.de"
+  address: "Robert Mayer Str. 11-15, Raum 112"
+  phone: "Tel +49-69-798-22434"
+  role: "Wissenschaftlicher Mitarbeiter"
