@@ -1,0 +1,41 @@
+- name: LiODin
+  full-name: Linked Open Dictionary Navigator
+  img: img/liodin-main.png
+  description: >-
+    A web interface that allows users to load and browse OntoLex-lemon dictionaries.
+  folder: liodin
+
+- name: LiODVa
+  full-name: Linked Open Dictionary Validator
+  img: img/liodva-main.png
+  description: >-
+    A handy tool to validate the correctness of generated OntoLex-lemon dictionaries and preview first rows.
+  folder: liodva
+
+- name: LiOTRea
+  full-name: Linked Open Text Reader and Annotator
+  img: img/liotrea-main.png
+  description: >-
+    An environment that allows a user to display texts and their (automated or manual) annotation, 
+    checking and correcting annotations at the same time. 
+
+    
+    It supports using dictionaries represented in RDF in the OntoLex-lemon model as a basis for lemmatization, 
+    phonological search lookup functionality against any dictionary, 
+    and the enrichment/creation of Ontolex-lemon dictionaries during the annotation process.
+  folder: liotrea
+  
+# - name: cqp4rdf
+#   full-name: cqp4rdf
+#   img: img/cqp4rdf-main.png
+#   description: >-
+    
+#   folder: cqp4rdf
+  
+# - name: Ligt
+#   full-name: Linked Iterlinear glossed texts vocabulary
+#   img: img/ligt-main.png
+#   description: >-
+    
+#   folder: ligt
+  
