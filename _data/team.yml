@@ -22,7 +22,7 @@
   email: "‹lastname›@lingua.uni-frankfurt.de"
   address: "Senckenberganlage 31, Raum 911"
   phone: "Tel +49-69-798-25058"
-  role: "Wissenschaftlicher Mitarbeiter"
+  role: "Wissenschaftliche Mitarbeiterin"
 
 - name: Jesse Wichers Schreur
   email: "‹lastname›@lingua.uni-frankfurt.de"
@@ -34,10 +34,10 @@
   email: "‹lastname›@em.uni-frankfurt.de"
   address: "Robert-Mayer-Str. 11-15, Raum 109"
   phone: "Tel +49-69-798-28116"
-  role: "Technischer Mitarbeiter"
+  role: "Technisch-Administrativer Mitarbeiter"
 
 - name: Frank Abromeit
   email: "‹lastname›@em.uni-frankfurt.de"
   address: "Robert Mayer Str. 11-15, Raum 112"
   phone: "Tel +49-69-798-22434"
-  role: "Wissenschaftlicher Mitarbeiter"
+  role: "Technisch-Administrativer Mitarbeiter"
