@@ -45,3 +45,11 @@
   description: >-
     LiODi team members initiated a community effort to develop a consolidated data model for linguistic annotations on the web since 2019. This is an effort currently conducted in the W3C Community Group Linked Data for Language Technology and building on a harmonization among current vocabularies such as Web Annotation, the NLP Interchange Format, CoNLL-RDF, POWLA, Ligt, ISO TC37 standards.
   link: https://github.com/ld4lt/linguistic-annotation
+  
+  
+- name: TEI+RDFa customization
+  full-name: Revision of the specifications of the Text Encoding Initiative (TEI) with guidelines to link RDF data datasets
+  description: >-
+    Together with external collaborators, LiODi team members have been driving the development of a principled, W3C-compliant extension of inline TEI/XML with the necessary means to encode RDF triples.
+  link: https://github.com/TEIC/TEI/issues/311, https://github.com/TEIC/TEI/issues/1860
+
