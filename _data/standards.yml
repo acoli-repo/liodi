@@ -1,0 +1,12 @@
+- name: Ontolex-Frac
+  full-name: OntoLex extension for Frequency, Attestations and Corpus Information
+  description: >-
+    An extension of OntoLex standard to represent links between lexical resources such as dictionaries and corpora
+  link: https://github.com/ontolex/frequency-attestation-corpus-information
+
+- name: Ligt
+  full-name: Linked Interlinear Glossed Texts
+  description: >-
+    An RDF vocabulary for representing linguistic examples with interlinear glosses as RDF
+  link: http://purl.org/liodi/ligt
+  

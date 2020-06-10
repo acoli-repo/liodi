@@ -1,0 +1,11 @@
+- name: Ligt examples
+  full-name: Interlinear examples for Ligt vocabulary demonstration
+  description: >-
+    A converted 
+  link: https://github.com/acoli-repo/ligt/tree/master/samples
+  
+- name: APiCS Ligt
+  full-name: Interlinear examples from the Atlas of Pidgin and Creole Language Structures
+  description: >-
+    A converted APiCS dataset represented with Ligt vocabulary
+  link: https://github.com/acoli-repo/ligt/tree/master/apics
