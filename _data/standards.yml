@@ -1,12 +1,47 @@
 - name: Ontolex-Frac
-  full-name: OntoLex extension for Frequency, Attestations and Corpus Information
+  full-name: OntoLex module for Frequency, Attestations and Corpus Information
   description: >-
-    An extension of OntoLex standard to represent links between lexical resources such as dictionaries and corpora
+    LiODi team members initiated and coordinate the extension of the OntoLex standard to represent links between lexical resources such as dictionaries and corpora
   link: https://github.com/ontolex/frequency-attestation-corpus-information
+
+
+- name: Ontolex-Morph
+  full-name: OntoLex module for Morphology
+  description: >-
+    LiODi team members contribute to the extension of the OntoLex standard to represent morphologically rich languages in OntoLex-RDF
+  link: https://github.com/ontolex/morph
+
+
+- name: CoNLL-RDF
+  full-name: Vocabulary for representing linguistic annotations in RDF
+  description: >-
+    LiODi team members developed CoNLL-RDF, an extension of the NLP Interchange Format that allows to represent linguistically annotated corpora originally distributed in tabular formats in RDF.
+  link: https://github.com/acoli-repo/conll-rdf
+
 
 - name: Ligt
   full-name: Linked Interlinear Glossed Texts
   description: >-
-    An RDF vocabulary for representing linguistic examples with interlinear glosses as RDF
+    LiODi developed an RDF vocabulary for representing linguistic examples with interlinear glosses as RDF
   link: http://purl.org/liodi/ligt
   
+
+- name: POWLA
+  full-name: OWL edition of the Potsdamer Austauschformat Linguistischer Annotationen
+  description: >-
+    LiODi team members maintain POWLA, an OWL2/DL implementation of the Linguistic Annotation Framework (https://www.iso.org/standard/37326.html)
+  link: http://purl.org/powla/
+
+  
+- name: OLiA
+  full-name: Ontologies of Linguistic Annotation
+  description: >-
+    LiODi team members maintain and develop the Ontologies of Linguistic Annotation, a major terminology hub for annotation terminology in the Linguistic Linked Open Data cloud. 
+  link: https://github.com/acoli-repo/olia
+
+
+- name: LD4LT Annotation Model
+  full-name: Consolidated datamodel for linguistic annotations on the web 
+  description: >-
+    LiODi team members initiated a community effort to develop a consolidated data model for linguistic annotations on the web since 2019. This is an effort currently conducted in the W3C Community Group Linked Data for Language Technology and building on a harmonization among current vocabularies such as Web Annotation, the NLP Interchange Format, CoNLL-RDF, POWLA, Ligt, ISO TC37 standards.
+  link: https://github.com/ld4lt/linguistic-annotation
