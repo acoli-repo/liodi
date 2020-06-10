@@ -1,30 +1,30 @@
 - name: Apertium dictionaries
-   full-name: Apertium dictionaries, RDF edition
-   description: >-
+  full-name: Apertium dictionaries, RDF edition
+  description: >-
     A set of 55 bilingual open source dictionaries for 46 languages originally created for machine translation within the Apertium project. Within LiODi, we converted the original XML format to OntoLex-RDF.
   link: https://github.com/acoli-repo/acoli-dicts/tree/master/stable/apertium
 
 - name: FreeDict dictionaries
-   full-name: FreeDict dictionaries, RDF edition
-   description: >-
+  full-name: FreeDict dictionaries, RDF edition
+  description: >-
     A set of 145 bilingual open source dictionaries for 45 languages created by crowdsourcing. Within LiODi, we provide their conversion from TEI/XML to OntoLex-RDF.
   link: https://github.com/acoli-repo/acoli-dicts/blob/master/stable/freedict
   
 - name: XDXF dictionaries
-   full-name: XDXF dictionaries, RDF edition
-   description: >-
+  full-name: XDXF dictionaries, RDF edition
+  description: >-
     XDXF was a project to unite "all existing open dictionaries" (147 dictionaries for 52 languages) by means of a common XML format. Within LiODi, we provide their conversion from TEI/XML to OntoLex-RDF.
   link: https://github.com/acoli-repo/acoli-dicts/tree/master/experimental/xdxf
 
 - name: StarDict dictionaries
-   full-name: Open StarDict dictionaries, RDF edition
-   description: >-
+  full-name: Open StarDict dictionaries, RDF edition
+  description: >-
     Conversion of 130 bilingual dictionaries for 32 languages, the subset of StarDict dictionaries marked as being open source or "free-to-use". This was converted from the source format to OntoLex-RDF.
   link: https://github.com/acoli-repo/acoli-dicts/tree/master/experimental/stardict
   
 - name: Zazaki dictionary
-   full-name: Zazaki dictionary originally provided by FreeDict.de, RDF edition
-   description: >-
+  full-name: Zazaki dictionary originally provided by FreeDict.de, RDF edition
+  description: >-
     Conversion of a bilingual, crowdsourced Zazaki-German dictionary to OntoLex-RDF. Zazaki is an Iranian language possibly related to Parthian and relevant for language contact in the Caucasus area in pre-Arabic times.
   link: https://github.com/acoli-repo/acoli-dicts/tree/master/experimental/free-dict.de
 
