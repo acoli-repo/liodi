@@ -23,7 +23,7 @@ title: Software solutions
       </div>
       <div class="col-2">
         <blockquote>
-<p>"adventure"@en</p>
+<p>"adventure"@en: similar words from French:</p>
 </blockquote>
         <pre><code>aventure   0.875000 1.000000 0.777778
 adhérent   0.579403 0.605390 0.555556
