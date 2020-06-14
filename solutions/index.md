@@ -25,14 +25,14 @@ title: Software solutions
         <blockquote>
 <p>"adventure"@en: similar words from French:</p>
 </blockquote>
-        <pre><code>aventure   0.875000 1.000000 0.777778
-adhérent   0.579403 0.605390 0.555556
-accentuer  0.505341 0.585576 0.444444
-adversaire 0.404759 0.339995 0.500000
-adverse    0.326851 0.258465 0.444444
-adjacent   0.316972 0.246323 0.444444
-aventurier 0.154761 0.088838 0.600000
-adverbe    0.178534 0.111703 0.444444
+        <pre><code>aventure   0.88 1.00 0.78
+adhérent   0.58 0.61 0.56
+accentuer  0.51 0.59 0.44
+adversaire 0.40 0.34 0.50
+adverse    0.33 0.26 0.44
+adjacent   0.32 0.25 0.44
+aventurier 0.15 0.09 0.60
+adverbe    0.18 0.11 0.44
 ...</code></pre>
       </div>
     </div>
