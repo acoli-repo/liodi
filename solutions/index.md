@@ -25,15 +25,15 @@ title: Software solutions
         <blockquote>
 <p>"adventure"@en</p>
 </blockquote>
-        <pre><code>aventure   0.875000 1.000000 0.777778</code><br/></pre>
-        <pre><code>adhérent   0.579403 0.605390 0.555556</code><br/></pre>
-        <pre><code>accentuer  0.505341 0.585576 0.444444</code><br/></pre>
-        <pre><code>adversaire 0.404759 0.339995 0.500000</code><br/></pre>
-        <pre><code>adverse    0.326851 0.258465 0.444444</code><br/></pre>
-        <pre><code>adjacent   0.316972 0.246323 0.444444</code><br/></pre>
-        <pre><code>aventurier 0.154761 0.088838 0.600000</code><br/></pre>
-        <pre><code>adverbe    0.178534 0.111703 0.444444</code><br/></pre>
-        <pre><code>...</code></pre>
+        <pre><code>aventure   0.875000 1.000000 0.777778
+adhérent   0.579403 0.605390 0.555556
+accentuer  0.505341 0.585576 0.444444
+adversaire 0.404759 0.339995 0.500000
+adverse    0.326851 0.258465 0.444444
+adjacent   0.316972 0.246323 0.444444
+aventurier 0.154761 0.088838 0.600000
+adverbe    0.178534 0.111703 0.444444
+...</code></pre>
       </div>
     </div>
   </li>
