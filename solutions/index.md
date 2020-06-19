@@ -21,7 +21,7 @@ title: Software solutions
         <p>Language-independent tool for detecting cognates/loan words based on semantic (distributional) and phonological (graphemic) similarity.</p>
         <a href="https://github.com/acoli-repo/cognate-search">More</a>
       </div>
-      <div class="col-2">
+      <div class="col-4">
         <blockquote>
 <p>"adventure"@en: similar words from French:</p>
 </blockquote>
@@ -50,7 +50,7 @@ adverbe    0.18 0.11 0.44
         <p>{{ tool.description | markdownify }}</p>
         <a href="{{ tool.folder }}">More</a>
       </div>
-      <div class="col-2">
+      <div class="col-4">
         {% if existing_screenshots contains main_screenshot %}
         <img src="../img/screenshots/{{ main_screenshot }}.png"/>
         {% endif %}
